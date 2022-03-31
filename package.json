@@ -1,0 +1,19 @@
+{
+  "name": "ecmascript-course",
+  "version": "1.0.0",
+  "description": "entendiento ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonjoya/ecmascript-course.git"
+  },
+  "author": "Jhon Joya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhonjoya/ecmascript-course/issues"
+  },
+  "homepage": "https://github.com/jhonjoya/ecmascript-course#readme"
+}
