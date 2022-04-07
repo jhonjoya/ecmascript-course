@@ -143,3 +143,16 @@ class calculator {
         return this.valueA + this.valueB;
     }
 }
+
+const calc = new calculator();
+console.log(calc.sumar(5,6));
+
+const hello = require('./module')
+console.log(hello());
+
+
+function* helloworld() {
+    if(true){
+        yield 'Hello, ';
+    }
+};
